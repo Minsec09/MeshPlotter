@@ -12,7 +12,7 @@ This is a drawing tool developed using C++ QT, supporting point plotting, line c
 
 
 
-!\[Qt](https://img.shields.io/badge/Qt-6.0%2B-green) !\[C++](https://img.shields.io/badge/C%2B%2B-17-blue) !\[License](https://img.shields.io/badge/License-MIT-yellow)
+<img width="1604" height="1260" alt="image" src="https://github.com/user-attachments/assets/b3f9ea8d-ebb3-487e-9ff9-7e8e7af422e9" />
 
 
 

@@ -26,18 +26,13 @@ This is a drawing tool developed using C++ QT, supporting point plotting, line c
 
 ---
 
-<img width="525" height="423" alt="image" src="https://github.com/user-attachments/assets/00267da3-ab1c-4cf5-b65e-a2da4796ece3" />
-
-
-
-
 
 ## 📥 Download / 下载
 
 You can download the ready-to-run package directly from the Releases page:
 您可以直接从 Releases 页面下载可直接运行的压缩包：
 
-👉 **[Download Latest Version / 下载最新版] (这里填你GitHub Release的链接)**
+👉 **[Download Latest Version / 下载最新版] (https://github.com/Minsec09/MeshPlotter/releases/tag/v1.0)**
 
 ---
 
